@@ -57,6 +57,7 @@ A continuación se detalla qué representa cada tabla y cómo se relacionan entr
 
 
 * **Siniestros:** Un contrato de alquiler puede estar asociado a cero o más eventos de `SINIESTRO` en caso de que ocurra algún daño o imprevisto con el automóvil.
+* <img width="1012" height="752" alt="EJERCICIO 13-MR drawio" src="https://github.com/user-attachments/assets/7a1b6caf-4639-484d-a254-432bb86c7da4" />
 
 
 
@@ -114,4 +115,5 @@ A continuación se detalla cada una de las fases representadas:
 <img width="1012" height="752" alt="EJERCICIO 13-MR drawio" src="https://github.com/user-attachments/assets/7a1b6caf-4639-484d-a254-432bb86c7da4" />
 
 
-<img width="4537" height="2742" alt="EJERCICIO 13-FASES DE NORMALIZACION drawio" src="https://github.com/user-attachments/assets/0330bca6-c853-4a9c-972c-e072593c8d36" />
+<img width="4607" height="2742" alt="EJERCICIO 13-FASES DE NORMALIZACION drawio" src="https://github.com/user-attachments/assets/dd862a5c-f5f3-4ef6-99f4-d422fcfb726e" />
+
